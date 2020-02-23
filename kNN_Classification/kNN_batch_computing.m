@@ -1,8 +1,4 @@
-% EC 414 Introduction to Machine Learning
-% Spring semester, 2020
-% Homework 3
-% by (Xinyuan Zhao)
-%
+
 % Problem 4.3 Nearest Neighbor Classifier
 % d)
 
