@@ -1,6 +1,5 @@
 % EC 414 - HW 4 - Spring 2020
 % K-Means starter code
-%Xinyuan Zhao
 
 clear, clc, close all,
 
