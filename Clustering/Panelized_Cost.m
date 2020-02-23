@@ -1,6 +1,3 @@
-% EC 414 - HW 4 - Spring 2020
-%problem 4.3
-%Xinyuan Zhao
 
 clear, clc, close all,
 
