@@ -1,5 +1,4 @@
-% EC 414 - HW 4 - Spring 2020
-% K-Means starter code
+
 
 clear, clc, close all,
 
