@@ -1,9 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ENG EC 414 (Ishwar) Spring 2020
-% HW 5
-% Xinyuan Zhao, zxy9815@bu.edu
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%
+
 clear all; clc;
 rng('default')  % For reproducibility of data and results
 
