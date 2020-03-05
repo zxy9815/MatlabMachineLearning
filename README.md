@@ -11,11 +11,11 @@ Runtimes are Higher than MATLAB Built-in Functions.
 # Topics Included:
 
 ```
-- Nearest Neighbor Classification
+- Nearest Neighbor Methods (KNN Classification/Regression)
 
-- K-Centers Clustering
+- Clustering (K-Centers, DP-Centers)
 
-- DP-Centers Clustering
+- Linear Methods (LDA, OLS, Ridge Regression)
 
 ```
 
