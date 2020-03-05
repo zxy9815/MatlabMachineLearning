@@ -1,5 +1,3 @@
-% Homework 5 Q4
-% by (Xinyuan Zhao)
 
 clc, clear
 
