@@ -15,7 +15,12 @@ Runtimes are Higher than MATLAB Built-in Functions.
 
 - Clustering (K-Centers, DP-Centers)
 
-- Linear Methods (LDA, OLS, Ridge Regression)
+- Linear Methods:
+  - LDA and OLS Regression
+  - Logistic Regression
+  - Support Vector Machine
+  
+- Principal Component Analysis (PCA)
 
 ```
 
