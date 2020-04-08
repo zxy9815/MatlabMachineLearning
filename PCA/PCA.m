@@ -1,4 +1,3 @@
-%Xinyuan Zhao
 
 function [lambda5, k_] = zxy9815_hw6_2()
 %% Q6.2
