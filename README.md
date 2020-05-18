@@ -56,9 +56,23 @@ Training Dataset:
 
 Predictions By KNN Algorithm:
 
-<img src="Images/Picture2.png" width="500" height="400">
 <img src="Images/Picture3.png" width="500" height="400">
 
+# Clustering
+
+## K-Means Algorithm
+
+Clustering Outcome:
+
+
+
+WCSS Analysis:
+
+
+
+# Dimensionality Reduction
+
+## PCA
 
 
 
