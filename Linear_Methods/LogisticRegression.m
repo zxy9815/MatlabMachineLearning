@@ -1,4 +1,3 @@
-%Xinyuan Zhao EC414 HW7
 
 load('iris.mat')
 n_train = length(X_data_train(:,1));
