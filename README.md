@@ -62,13 +62,23 @@ Predictions By KNN Algorithm:
 
 ## K-Means Algorithm
 
-Clustering Outcome:
+Clustering Outcome: K = 3
 
-
+<img src="Images/kmeans1.png" width="500" height="400">
 
 WCSS Analysis:
 
+<img src="Images/wcss.png" width="500" height="400">
 
+## DP-Centers Algorithm
+
+NBA 18-19 MPG vs. PPG Dataset:
+
+<img src="Images/nba1.png" width="500" height="400">
+
+Clustering Outcome: Lambda = 44
+
+<img src="Images/nba2.png" width="500" height="400">
 
 # Dimensionality Reduction
 
