@@ -37,16 +37,6 @@ SGD Algorithm Learning Progress over Iterations:
 <img src="Images/7.3b.png" width="500" height="400">
 <img src="Images/7.3c.png" width="500" height="400">
 
-## Binary-SVM & Stochastic Sub-Gradient Descent Algorithm
-
-Training Dataset: Same as Above
-
-SSGD Algorithm Learning Progress over Iterations:
-(Take Features 2 & 4, Classes 2 & 3)
-
-<img src="Images/8.2a3.png" width="500" height="400">
-<img src="Images/8.2b3.png" width="500" height="400">
-
 ## Binary-SVM with RBF Kernel
 
 SSGD Algorithm Learning Progress over Iterations:
