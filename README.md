@@ -39,7 +39,13 @@ SGD Algorithm Learning Progress over Iterations:
 
 ## Binary-SVM with RBF Kernel
 
+Training Dataset & Outcome Decision Boundary:
+
+<img src="Images/9.2d.png" width="500" height="400">
+
 SSGD Algorithm Learning Progress over Iterations:
+
+<img src="Images/9.2b.png" width="500" height="400">
 
 
 ## K-Nearest Neighbors Algorithm
