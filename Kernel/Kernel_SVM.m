@@ -1,4 +1,4 @@
-%Xinyuan Zhao EC414 HW9_2
+
 
 load('kernel-svm-2rings.mat')
 n = length(y);
