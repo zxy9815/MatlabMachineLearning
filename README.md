@@ -1,4 +1,4 @@
-# EC414_Machine_Learning
+# Machine Learning 
 
 Algorithms of Classic Machine Learning Problems Using MATLAB
 
@@ -15,8 +15,8 @@ All Self-Written Source Codes from Scratch.
 
 - Linear Methods:
   - LDA and Ridge Regression
-  - Logistic Regression
-  - Support Vector Machine
+  - Logistic Regression (SGD)
+  - Support Vector Machine (SSGD)
   
 - Dimensionality Reduction using PCA
 
