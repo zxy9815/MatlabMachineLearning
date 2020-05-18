@@ -41,6 +41,13 @@ Predictions By KNN Algorithm:
 
 Training Dataset: 3 Classes, Features in R^4
 
+<img src="Images/7.3a3.png" width="500" height="400">
+
+SGD Algorithm Learning Progress over Iterations:
+
+<img src="Images/7.3b.png" width="500" height="400">
+<img src="Images/7.3c.png" width="500" height="400">
+
 
 
 
