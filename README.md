@@ -26,8 +26,21 @@ All Self-Written Source Codes from Scratch.
 
 # Classification
 
-## K-Nearest Neighbors
-![](images/Picture1.png)
+## K-Nearest Neighbors Algorithm
+
+Training Dataset:
+
+<img src="Images/Picture1.png" width="500" height="360">
+
+Predictions By KNN Algorithm:
+
+<img src="Images/Picture2.png" width="500" height="400">
+<img src="Images/Picture3.png" width="500" height="400">
+
+## Logistic Regression using Stochastic Gradient Descent Algorithm
+
+Training Dataset: 3 Classes, Features in R^4
+
 
 
 
