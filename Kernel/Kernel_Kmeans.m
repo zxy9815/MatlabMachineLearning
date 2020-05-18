@@ -1,4 +1,3 @@
-%Xinyuan Zhao EC414 HW9_3
 
 load('kernel-kmeans-2rings.mat')
 d = 2;
