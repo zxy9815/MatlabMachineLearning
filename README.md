@@ -44,6 +44,13 @@ Training Dataset: Same as Above
 SSGD Algorithm Learning Progress over Iterations:
 (Take Features 2 & 4, Classes 2 & 3)
 
+<img src="Images/8.2a3.png" width="500" height="400">
+<img src="Images/8.2b3.png" width="500" height="400">
+
+## Binary-SVM with RBF Kernel
+
+SSGD Algorithm Learning Progress over Iterations:
+
 
 ## K-Nearest Neighbors Algorithm
 
