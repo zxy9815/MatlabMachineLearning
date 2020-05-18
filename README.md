@@ -26,6 +26,25 @@ All Self-Written Source Codes from Scratch.
 
 # Classification
 
+## Logistic Regression & Stochastic Gradient Descent Algorithm
+
+Training Dataset: 3 Classes, Features in R^4
+
+<img src="Images/7.3a3.png" width="500" height="400">
+
+SGD Algorithm Learning Progress over Iterations:
+
+<img src="Images/7.3b.png" width="500" height="400">
+<img src="Images/7.3c.png" width="500" height="400">
+
+## Binary-SVM & Stochastic Sub-Gradient Descent Algorithm
+
+Training Dataset: Same as Above
+
+SSGD Algorithm Learning Progress over Iterations:
+(Take Features 2 & 4, Classes 2 & 3)
+
+
 ## K-Nearest Neighbors Algorithm
 
 Training Dataset:
@@ -37,16 +56,7 @@ Predictions By KNN Algorithm:
 <img src="Images/Picture2.png" width="500" height="400">
 <img src="Images/Picture3.png" width="500" height="400">
 
-## Logistic Regression using Stochastic Gradient Descent Algorithm
 
-Training Dataset: 3 Classes, Features in R^4
-
-<img src="Images/7.3a3.png" width="500" height="400">
-
-SGD Algorithm Learning Progress over Iterations:
-
-<img src="Images/7.3b.png" width="500" height="400">
-<img src="Images/7.3c.png" width="500" height="400">
 
 
 
