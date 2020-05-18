@@ -1,10 +1,10 @@
 # EC414_Machine_Learning
 
-Homeworks of Intro to Machine Learning.
+Algorithms of Classic Machine Learning Problems Using MATLAB
 
-Data Analysis Using Concepts of Machine Learning.
+No Machine Learning Packages used
 
-Self-Written Source Codes from Scratch.
+All Self-Written Source Codes from Scratch.
 
 # Topics Included:
 
@@ -18,9 +18,9 @@ Self-Written Source Codes from Scratch.
   - Logistic Regression
   - Support Vector Machine
   
-- Principal Component Analysis (PCA)
+- Dimensionality Reduction using PCA
 
-- Kernel Methods
+- Kernel for SVM & Clustering
 
 ```
 
