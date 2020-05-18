@@ -24,5 +24,10 @@ All Self-Written Source Codes from Scratch.
 
 ```
 
+# Classification
+
+## K-Nearest Neighbors
+![](images/Picture1.png)
+
 
 
