@@ -84,6 +84,11 @@ Clustering Outcome: Lambda = 44
 
 ## PCA
 
+AT&T Faces Dataset: 400 images with size 112 x 92 in PGM format
+
+Reconstructing Original Face from 'The Average Face':
+
+<img src="Images/eigenface.png" width="500" height="400">
 
 
 
